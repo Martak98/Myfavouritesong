@@ -1,0 +1,33 @@
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\appsettings.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.staticwebassets.runtime.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.staticwebassets.endpoints.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.exe
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.deps.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.runtimeconfig.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.dll
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\bin\Debug\net8.0\My Favourite Song.pdb
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.AssemblyInfoInputs.cache
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.AssemblyInfo.cs
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.RazorAssemblyInfo.cache
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.RazorAssemblyInfo.cs
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\scopedcss\bundle\My Favourite Song.styles.css
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\scopedcss\projectbundle\My Favourite Song.bundle.scp.css
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.dll
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\refint\My Favourite Song.dll
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.pdb
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\My Favourite Song.genruntimeconfig.cache
+C:\Users\marta\source\repos\My Favourite Song\My Favourite Song\obj\Debug\net8.0\ref\My Favourite Song.dll
